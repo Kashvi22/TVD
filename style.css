@@ -1,0 +1,24 @@
+#home{
+    text-align: center;
+    background: white;
+}
+
+#logo{
+    height: 300px;
+    margin: 35px;
+}
+
+#gridview{
+    text-align: center;
+    background: white;
+}
+
+#sideview{
+    text-align: center;
+    background: white;
+}
+
+#myCarousel img{
+    height: 300px;
+    margin: 35px;
+}
